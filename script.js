@@ -4,4 +4,4 @@ while(guessNum!=userNum){
    let userNum=prompt("Enter the num"); 
    
 }
-console.log("Congratulations madarchot pata lagaliyaa tuney")
+console.log("Congratulations madarchot pata lagaliyaa tuney");
